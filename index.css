@@ -1,0 +1,21 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    width:100%;
+    height:3000px;
+    background: url(background.jpg);
+    background-size:cover;
+}
+.back{
+   display:none; 
+   position:fixed;
+   font-size:14px;
+   color:white;
+   bottom:40px;
+   right:60px;
+   cursor: pointer;
+   background:#333;
+   padding:10px;
+}
